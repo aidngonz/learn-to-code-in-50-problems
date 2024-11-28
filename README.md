@@ -1,5 +1,3 @@
----
-
 1. **Find the Last Element of a List**
    - **Task:** Write a function that returns the last element of a list. 
    - **Instructions:** Do not use built-in functions like `list[-1]`. 
@@ -449,5 +447,3 @@
     - **Example:**
       - Input: (3, 4, '+')
       - Output: 7
-
----
