@@ -1,25 +1,25 @@
 # Learn to Code in 50 Problems
 
-1. **Find the Last Element of a array/list**
-   - **Task:** Write a function that returns the last element of a array/list. 
-   - **Instructions:** Do not use built-in functions like `array/list[-1]`. 
+1. **Find the Last Element of a Array or List**
+   - **Task:** Write a function that returns the last element of a Array or List. 
+   - **Instructions:** Do not use built-in functions like `list[-1]`. 
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
      - Output: 5
 
 ---
 
-2. **Find the Kth Element of a array/list**
-   - **Task:** Write a function that returns the Kth element of a array/list (counting from 0).
-   - **Instructions:** Avoid using array/list indexing directly.
+2. **Find the Kth Element of a Array or List**
+   - **Task:** Write a function that returns the Kth element of a Array or List (counting from 0).
+   - **Instructions:** Avoid using Array or List indexing directly.
    - **Example:**
      - Input: ([1, 2, 3, 4, 5], 2)
      - Output: 3
 
 ---
 
-3. **Find the Length of a array/list**
-   - **Task:** Write a function that returns the length of a array/list.
+3. **Find the Length of a Array or List**
+   - **Task:** Write a function that returns the length of a Array or List.
    - **Instructions:** Do not use the built-in `len()` function. You must manually count the elements.
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
@@ -27,8 +27,8 @@
 
 ---
 
-4. **Reverse a array/list**
-   - **Task:** Write a function that reverses a array/list.
+4. **Reverse a Array or List**
+   - **Task:** Write a function that reverses a Array or List.
    - **Instructions:** Do not use slicing or the `reverse()` method.
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
@@ -36,17 +36,17 @@
 
 ---
 
-5. **Check if a array/list is Empty**
-   - **Task:** Write a function that checks if a array/list is empty.
-   - **Instructions:** Do not use `if not array/list:` or any built-in functions.
+5. **Check if a Array or List is Empty**
+   - **Task:** Write a function that checks if a Array or List is empty.
+   - **Instructions:** Do not use `if not list:` or any built-in functions.
    - **Example:**
      - Input: []
      - Output: True
 
 ---
 
-6. **Sum of a array/list**
-   - **Task:** Write a function that returns the sum of all elements in a array/list.
+6. **Sum of a Array or List**
+   - **Task:** Write a function that returns the sum of all elements in a Array or List.
    - **Instructions:** Avoid using the `sum()` function.
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
@@ -54,8 +54,8 @@
 
 ---
 
-7. **Find the Maximum of a array/list**
-   - **Task:** Write a function that returns the maximum element of a array/list.
+7. **Find the Maximum of a Array or List**
+   - **Task:** Write a function that returns the maximum element of a Array or List.
    - **Instructions:** Do not use the built-in `max()` function.
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
@@ -63,8 +63,8 @@
 
 ---
 
-8. **Find the Minimum of a array/list**
-   - **Task:** Write a function that returns the minimum element of a array/list.
+8. **Find the Minimum of a Array or List**
+   - **Task:** Write a function that returns the minimum element of a Array or List.
    - **Instructions:** Do not use the built-in `min()` function.
    - **Example:**
      - Input: [1, 2, 3, 4, 5]
@@ -72,8 +72,8 @@
 
 ---
 
-9. **Count Occurrences of an Element in a array/list**
-   - **Task:** Write a function that counts how many times a given element appears in a array/list.
+9. **Count Occurrences of an Element in a Array or List**
+   - **Task:** Write a function that counts how many times a given element appears in a Array or List.
    - **Instructions:** Do not use the `count()` method.
    - **Example:**
      - Input: ([1, 2, 3, 1, 4, 1], 1)
@@ -81,8 +81,8 @@
 
 ---
 
-10. **Remove Duplicates from a array/list**
-    - **Task:** Write a function that removes duplicates from a array/list.
+10. **Remove Duplicates from a Array or List**
+    - **Task:** Write a function that removes duplicates from a Array or List.
     - **Instructions:** Do not use the `set()` function or any built-in function.
     - **Example:**
       - Input: [1, 2, 2, 3, 4, 4]
@@ -90,8 +90,8 @@
 
 ---
 
-11. **Check if an Element Exists in a array/list**
-    - **Task:** Write a function that checks if an element exists in a array/list.
+11. **Check if an Element Exists in a Array or List**
+    - **Task:** Write a function that checks if an element exists in a Array or List.
     - **Instructions:** Do not use the `in` operator.
     - **Example:**
       - Input: ([1, 2, 3, 4, 5], 3)
@@ -99,17 +99,17 @@
 
 ---
 
-12. **Concatenate Two array/lists**
-    - **Task:** Write a function that concatenates two array/lists.
-    - **Instructions:** Do not use the `+` operator for array/lists.
+12. **Concatenate Two Array or Lists**
+    - **Task:** Write a function that concatenates two Array or Lists.
+    - **Instructions:** Do not use the `+` operator for Array or Lists.
     - **Example:**
       - Input: ([1, 2], [3, 4])
       - Output: [1, 2, 3, 4]
 
 ---
 
-13. **Find the Index of an Element in a array/list**
-    - **Task:** Write a function that returns the index of the first occurrence of an element in a array/list.
+13. **Find the Index of an Element in a Array or List**
+    - **Task:** Write a function that returns the index of the first occurrence of an element in a Array or List.
     - **Instructions:** Do not use the `index()` method.
     - **Example:**
       - Input: ([1, 2, 3, 4], 3)
@@ -117,17 +117,17 @@
 
 ---
 
-14. **Flatten a array/list of array/lists**
-    - **Task:** Write a function that flattens a array/list of array/lists into a single array/list.
-    - **Instructions:** Avoid using array/list comprehension or built-in functions like `extend()`.
+14. **Flatten a Array or List of Array or Lists**
+    - **Task:** Write a function that flattens a Array or List of Array or Lists into a single Array or List.
+    - **Instructions:** Avoid using Array or List comprehension or built-in functions like `extend()`.
     - **Example:**
       - Input: [[1, 2], [3, 4], [5]]
       - Output: [1, 2, 3, 4, 5]
 
 ---
 
-15. **Zip Two array/lists**
-    - **Task:** Write a function that zips two array/lists into a array/list of tuples.
+15. **Zip Two Array or Lists**
+    - **Task:** Write a function that zips two Array or Lists into a Array or List of tuples.
     - **Instructions:** Do not use the built-in `zip()` function.
     - **Example:**
       - Input: ([1, 2, 3], ['a', 'b', 'c'])
@@ -135,8 +135,8 @@
 
 ---
 
-16. **Unzip a array/list of Tuples**
-    - **Task:** Write a function that unzips a array/list of tuples into two array/lists.
+16. **Unzip a Array or List of Tuples**
+    - **Task:** Write a function that unzips a Array or List of tuples into two Array or Lists.
     - **Instructions:** Do not use the `zip()` function.
     - **Example:**
       - Input: [(1, 'a'), (2, 'b'), (3, 'c')]
@@ -144,8 +144,8 @@
 
 ---
 
-17. **Find the Intersection of Two array/lists**
-    - **Task:** Write a function that returns the intersection of two array/lists.
+17. **Find the Intersection of Two Array or Lists**
+    - **Task:** Write a function that returns the intersection of two Array or Lists.
     - **Instructions:** Avoid using built-in functions like `intersection()`.
     - **Example:**
       - Input: ([1, 2, 3], [2, 3, 4])
@@ -153,8 +153,8 @@
 
 ---
 
-18. **Find the Union of Two array/lists**
-    - **Task:** Write a function that returns the union of two array/lists.
+18. **Find the Union of Two Array or Lists**
+    - **Task:** Write a function that returns the union of two Array or Lists.
     - **Instructions:** Do not use `set()` or any built-in function.
     - **Example:**
       - Input: ([1, 2, 3], [2, 3, 4])
@@ -162,8 +162,8 @@
 
 ---
 
-19. **Find the Difference of Two array/lists**
-    - **Task:** Write a function that returns the difference of two array/lists.
+19. **Find the Difference of Two Array or Lists**
+    - **Task:** Write a function that returns the difference of two Array or Lists.
     - **Instructions:** Do not use set operations.
     - **Example:**
       - Input: ([1, 2, 3], [2, 3, 4])
@@ -171,8 +171,8 @@
 
 ---
 
-20. **Multiply All Elements of a array/list**
-    - **Task:** Write a function that multiplies all elements of a array/list together.
+20. **Multiply All Elements of a Array or List**
+    - **Task:** Write a function that multiplies all elements of a Array or List together.
     - **Instructions:** Do not use the `reduce()` function.
     - **Example:**
       - Input: [1, 2, 3, 4]
@@ -180,17 +180,17 @@
 
 ---
 
-21. **Find the Second Largest Element of a array/list**
-    - **Task:** Write a function that returns the second largest element in a array/list.
-    - **Instructions:** Do not sort the array/list.
+21. **Find the Second Largest Element of a Array or List**
+    - **Task:** Write a function that returns the second largest element in a Array or List.
+    - **Instructions:** Do not sort the Array or List.
     - **Example:**
       - Input: [1, 2, 3, 4, 5]
       - Output: 4
 
 ---
 
-22. **Merge Two Sorted array/lists**
-    - **Task:** Write a function that merges two sorted array/lists into one sorted array/list.
+22. **Merge Two Sorted Array or Lists**
+    - **Task:** Write a function that merges two sorted Array or Lists into one sorted Array or List.
     - **Instructions:** Avoid using the `sorted()` function or `sort()`.
     - **Example:**
       - Input: ([1, 3, 5], [2, 4, 6])
@@ -198,8 +198,8 @@
 
 ---
 
-23. **Check if a array/list is Sorted**
-    - **Task:** Write a function that checks if a array/list is sorted in ascending order.
+23. **Check if a Array or List is Sorted**
+    - **Task:** Write a function that checks if a Array or List is sorted in ascending order.
     - **Instructions:** Do not use the `sort()` method or `sorted()`.
     - **Example:**
       - Input: [1, 2, 3, 4, 5]
@@ -207,8 +207,8 @@
 
 ---
 
-24. **Find the Average of a array/list**
-    - **Task:** Write a function that finds the average of the elements in a array/list.
+24. **Find the Average of a Array or List**
+    - **Task:** Write a function that finds the average of the elements in a Array or List.
     - **Instructions:** Do not use the `sum()` or `len()` functions.
     - **Example:**
       - Input: [1, 2, 3, 4, 5]
@@ -249,7 +249,7 @@
     - **Task:** Write a function that checks if two strings are anagrams.
     - **Instructions:** Do not use sorting.
     - **Example:**
-      - Input: ("array/listen", "silent")
+      - Input: ("Array or Listen", "silent")
       - Output: True
 
 ---
@@ -407,8 +407,8 @@
 
 ---
 
-46. **Convert a Dictionary to a array/list of Tuples**
-    - **Task:** Write a function that converts a dictionary to a array/list of tuples.
+46. **Convert a Dictionary to a Array or List of Tuples**
+    - **Task:** Write a function that converts a dictionary to a Array or List of tuples.
     - **Instructions:** Do not use the `items()` method.
     - **Example:**
       - Input: {'a': 1, 'b': 2}
@@ -416,8 +416,8 @@
 
 ---
 
-47. **Create a Dictionary from Two array/lists**
-    - **Task:** Write a function that creates a dictionary from two array/lists (one for keys and one for values).
+47. **Create a Dictionary from Two Array or Lists**
+    - **Task:** Write a function that creates a dictionary from two Array or Lists (one for keys and one for values).
     - **Instructions:** Avoid using the `zip()` function.
     - **Example:**
       - Input: ['a', 'b'], [1, 2]
@@ -425,8 +425,8 @@
 
 ---
 
-48. **Find the Sum of Odd Numbers in a array/list**
-    - **Task:** Write a function that returns the sum of all odd numbers in a array/list.
+48. **Find the Sum of Odd Numbers in a Array or List**
+    - **Task:** Write a function that returns the sum of all odd numbers in a Array or List.
     - **Instructions:** Do not use any built-in functions or filtering techniques.
     - **Example:**
       - Input: [1, 2, 3, 4, 5]
@@ -434,8 +434,8 @@
 
 ---
 
-49. **Check if a array/list is Symmetrical**
-    - **Task:** Write a function that checks if a array/list is symmetrical (same forward and backward).
+49. **Check if a Array or List is Symmetrical**
+    - **Task:** Write a function that checks if a Array or List is symmetrical (same forward and backward).
     - **Instructions:** Do not use slicing or built-in reverse methods.
     - **Example:**
       - Input: [1, 2, 3, 2, 1]
